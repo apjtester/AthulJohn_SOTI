@@ -1,1 +1,3 @@
-This is the new fancy Home Page. Made a Change.
+This is the new fancy Home Page. 
+
+This change is made from ui-upgrade branch inorder to be merged with master branch.
